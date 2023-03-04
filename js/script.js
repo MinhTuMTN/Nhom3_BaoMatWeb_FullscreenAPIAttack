@@ -19,7 +19,7 @@ function requestFullScreen() {
 
 function playFailSound() {
   $("body").append(
-    '<audio preload="auto" autoplay><source src="/sound/mario-death.mp3" /><source src="/sound/mario-death.ogg" /></audio>'
+    '<audio preload="auto" autoplay><source src="sound/mario-death.mp3" /><source src="sound/mario-death.ogg" /></audio>'
   );
 }
 
