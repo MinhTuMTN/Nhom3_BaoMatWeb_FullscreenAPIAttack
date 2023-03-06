@@ -11,6 +11,12 @@
 
 ---
 
+## Github
+
+Link: https://github.com/MinhTuMTN/Nhom3_BaoMatWeb_FullscreenAPIAttack
+
+---
+
 ## Hệ điều hành và trình duyệt hỗ trợ
 
 Nhóm chúng em thực hiện project này trên hệ điều hành Windows 11 và 3 trình duyệt phổ biến là:
@@ -23,8 +29,8 @@ Nhóm chúng em thực hiện project này trên hệ điều hành Windows 11 v
 
 ## Hướng dẫn chạy Project
 
-- Bước 1: Mở file [index.html](index.html) để có thể bắt đầu chạy Project:
-- Bước 2: Thực hiện nhấn nút ["SIGN IN"](login.html) ở đầu trang để có thể vào trang đăng nhập
+- Bước 1: Truy cập đường dẫn: https://minhtumtn.github.io/Nhom3_BaoMatWeb_FullscreenAPIAttack/ để có thể bắt đầu chạy Project (trường hợp xảy ra lỗi mở file [index.html](index.html) )
+- Bước 2: Thực hiện nhấn nút ["SIGN IN"](https://minhtumtn.github.io/Nhom3_BaoMatWeb_FullscreenAPIAttack/login.html) ở đầu trang để có thể vào trang đăng nhập (trường hợp xảy ra lỗi mở file [login.html](login.html) )
 - Bước 3: Lúc này sẽ hiển thị một trang đăng nhập cơ bản với nút "Đăng nhập bằng Facebook" và cô hãy click vào nó.
 
 ---
